@@ -29,46 +29,41 @@
 - 따라 말하기의 문제를 풀었을 경우, 많이 틀린 발음(초,중,성)을 확인할 수 있습니다.
 
 ## 서비스 화면
-### 메인 화면
-![메인화면](https://github.com/gunjoon98/readme/assets/48176143/42c6119c-bf8b-4458-b7bf-730fc976a98e)
+### 인트로 화면
+![initialPage](https://github.com/hana-nana/Exhale/assets/80585489/085e11ac-a0e0-4097-b7cb-ff7f39220a33)
 
-### 로그인 화면
-![로그인](https://github.com/gunjoon98/readme/assets/48176143/9c1b2083-9805-452b-b94c-3e8574eada25)
+### 날숨 설명 화면
+![whatIsExhale](https://github.com/hana-nana/Exhale/assets/80585489/937e595d-1cdf-49cd-a323-c6efd7963898)
 
-### 회원가입 화면
-![회원가입화면](https://github.com/gunjoon98/readme/assets/48176143/dfb9e225-87c4-4b70-b21f-208016a0e9ab)
+### 로그인, 회원가입 화면
+![loginAndSignup](https://github.com/hana-nana/Exhale/assets/80585489/d763330d-b911-499a-a851-e429a285c263)
 
-### 회원가입시, 이메일 인증(성공)
-![ezgif com-video-to-gif-converter](https://github.com/gunjoon98/readme/assets/48176143/f9f2ce6c-f2e3-4e49-bb93-0186fdbe3675)
+### 이메일 인증 화면
+![emailAuthentication](https://github.com/hana-nana/Exhale/assets/80585489/19194945-61a5-4ee2-8608-f6620977733d)
 
-### 회원가입시, 이메일 인증(실패)
-![이메일_인증_성공](https://github.com/gunjoon98/readme/assets/48176143/5315e387-ec2d-4557-8a9e-d29a42309920)
+### 로그인 후 재활코스 메인 화면
+![mainPage](https://github.com/hana-nana/Exhale/assets/80585489/0ff5079b-eea9-4a4c-813e-0831391da4ee)
 
-### 재활 코스 화면
-![게임코스화면](https://github.com/gunjoon98/readme/assets/48176143/8fad01ea-738e-4e9d-b520-dc701a0016d9)
+### 이름 대기 문제 화면
+![sayObject](https://github.com/hana-nana/Exhale/assets/80585489/0c902a1f-6b1c-45ce-83ff-f78460545877)
 
-### 이름 대기 문제
-![이름대기_정답](https://github.com/gunjoon98/readme/assets/48176143/22aee4b9-d4fe-4f6b-b5f7-b6dd09f74abf)
+### 따라 말하기 문제 화면
+![followUpSpeech](https://github.com/hana-nana/Exhale/assets/80585489/11bd2c4b-d596-44b0-9278-bcfb31d1a0b7)
 
-### 따라 말하기 문제
-![따라말하기_오답](https://github.com/gunjoon98/readme/assets/48176143/f1d726eb-0a57-47db-8856-33f11645af89)
+### 듣기 이해력 문제 화면
+![listeningComprehension](https://github.com/hana-nana/Exhale/assets/80585489/fdb2212f-5293-434f-b422-f987f2aa6a95)
 
-### 듣기 이해력 문제
-![듣기이해력_정답1](https://github.com/gunjoon98/readme/assets/48176143/1952ba3d-25e0-419d-bfaf-d93e1602f8a6)
-![듣기이해력_오답2](https://github.com/gunjoon98/readme/assets/48176143/31699d60-d263-4cc7-a7cb-551ef5976969)
+### 유창성 문제 화면
+![fluency](https://github.com/hana-nana/Exhale/assets/80585489/1b5fb4f4-b4a3-4b90-bb2f-d3dfdc91d346)
 
-### 유창성 문제
-![유창성_정답](https://github.com/gunjoon98/readme/assets/48176143/9063e1b9-f2ae-469c-b03f-a9fc6541fdf4)
-![유창성_오답](https://github.com/gunjoon98/readme/assets/48176143/cf4016d4-d1e6-4241-9659-c72dc1a2b0b3)
+### 커뮤니티 화면
+![communityMain](https://github.com/hana-nana/Exhale/assets/80585489/8c529c4d-10fe-4a3a-b8ff-c57dbc40997b)
 
-### 커뮤니티
-![커뮤니티](https://github.com/gunjoon98/readme/assets/48176143/f33836d2-92a0-4a81-b14f-eaee0ec1efa4)
+### 커뮤니티 글쓰기 화면
+![postCreate](https://github.com/hana-nana/Exhale/assets/80585489/8fef8e32-6d69-4d1c-a62b-4d67d58cd713)
 
-### 커뮤니티 글 쓰기
-![글쓰기](https://github.com/gunjoon98/readme/assets/48176143/a44db758-1efe-42f0-8148-3450863e6d0d)
-
-### 통계
-![통계](https://github.com/gunjoon98/readme/assets/48176143/81d6b864-defa-4e23-9b20-f5587ee818e2)
+### 내 정보(통계) 화면
+![mypage](https://github.com/hana-nana/Exhale/assets/80585489/a0ec5f7d-d780-42f4-8832-e0f46d87776e)
 
 ## 개발 환경
 <table>
@@ -135,10 +130,11 @@
 </table>
 
 ## 아키텍처
-![아키텍처](https://github.com/gunjoon98/readme/assets/48176143/5d6b12ef-c2b9-4c05-8a80-52c1be3f898d)
+![인프라](https://github.com/hana-nana/Exhale/assets/80585489/ad388d2e-b565-48da-a194-32313e959825)
+![백엔드 구조](https://github.com/hana-nana/Exhale/assets/80585489/eddde3b8-245c-4efa-a822-c6f7ef2fa736)
 
 ## ERD
-![캡처](https://github.com/gunjoon98/readme/assets/48176143/ff3702d6-b316-47f2-9b9e-98175a89c009)
+![ERD](https://github.com/hana-nana/Exhale/assets/80585489/004bd5e5-e6d1-4b9a-b179-52bacab7860d)
 
 ## 와이어프레임
 ![와이어프레임](https://github.com/hana-nana/Exhale/assets/80585489/77b273bb-77ac-4b11-9f5c-afa141a5fbe4)
