@@ -39,13 +39,13 @@
 ![loginAndSignup](https://github.com/hana-nana/Exhale/assets/80585489/d763330d-b911-499a-a851-e429a285c263)
 
 ### 이메일 인증 화면
-![emailAuthentication](https://github.com/hana-nana/Exhale/assets/80585489/19194945-61a5-4ee2-8608-f6620977733d)
+![이메일인증](https://github.com/hana-nana/Exhale/assets/80585489/54a577e2-3165-47fb-bb68-c0f1da6d47e5)
 
 ### 로그인 후 재활코스 메인 화면
 ![mainPage](https://github.com/hana-nana/Exhale/assets/80585489/0ff5079b-eea9-4a4c-813e-0831391da4ee)
 
 ### 이름 대기 문제 화면
-![sayObject](https://github.com/hana-nana/Exhale/assets/80585489/0c902a1f-6b1c-45ce-83ff-f78460545877)
+![이름대기](https://github.com/hana-nana/Exhale/assets/80585489/108b3caf-228f-4b7e-b134-0af7f6d210e1)
 
 ### 따라 말하기 문제 화면
 ![followUpSpeech](https://github.com/hana-nana/Exhale/assets/80585489/11bd2c4b-d596-44b0-9278-bcfb31d1a0b7)
@@ -54,7 +54,7 @@
 ![listeningComprehension](https://github.com/hana-nana/Exhale/assets/80585489/fdb2212f-5293-434f-b422-f987f2aa6a95)
 
 ### 유창성 문제 화면
-![fluency](https://github.com/hana-nana/Exhale/assets/80585489/1b5fb4f4-b4a3-4b90-bb2f-d3dfdc91d346)
+![유창성](https://github.com/hana-nana/Exhale/assets/80585489/68e8bde3-8654-4f35-8824-35baa9c88acd)
 
 ### 커뮤니티 화면
 ![communityMain](https://github.com/hana-nana/Exhale/assets/80585489/8c529c4d-10fe-4a3a-b8ff-c57dbc40997b)
